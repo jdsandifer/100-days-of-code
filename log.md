@@ -9,7 +9,6 @@
 **Link to work:** [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher/tree/master/app/src/main/java/com/jdsandifer/simpleweightgrapher)
 
 
-
 ### Day 1: Jan 6, 2017 (Friday)
 
 **Today's Progress**: 
