@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 5, 2017 (Thursday)
+### Day 0: Jan. 5, 2017 (Thursday)
 
 **Today's Progress**: Continued work on database interaction.
 
@@ -9,7 +9,7 @@
 **Link to work:** [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher/tree/master/app/src/main/java/com/jdsandifer/simpleweightgrapher)
 
 
-### Day 1: Jan 6, 2017 (Friday)
+### Day 1: Jan. 6, 2017 (Friday)
 
 **Today's Progress**: 
 
