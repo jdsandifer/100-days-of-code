@@ -38,8 +38,8 @@
 
 ### Day 4: January 9th, 2017 (Monday)
 
-**Today's Progress**: Revised my method for getting the *day* of the year to get the *second* instead. (For faster testing.)
+**Today's Progress**: Revised my method for getting the *day* of the year to get the *seconds* instead. (for faster testing)
 
 **Thoughts:** Next is adding some unit tests and perhaps some mocking - the latter will be new, exciting, and possibly daunting. Until I do it - then it will just be cool.
 
-**Link to work:** [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher/tree/master/app/src/main/java/com/jdsandifer/simpleweightgrapher)
+**Link to work:** [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher/commit/fb3bbd649b9a6774ff23100b7efdc6fed71c781b)
