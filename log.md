@@ -43,3 +43,12 @@
 **Thoughts:** Next is adding some unit tests and perhaps some mocking - the latter will be new, exciting, and possibly daunting. Until I do it - then it will just be cool.
 
 **Link to work:** [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher/commit/fb3bbd649b9a6774ff23100b7efdc6fed71c781b)
+
+
+### Day 5: January 14th, 2017 (Saturday)
+
+**Today's Progress:** Today I practiced basic techniques for concurrency in vanilla Java. I'm starting a complete refresher on all of the possibilities and pitfalls to avoid so I'm better able to implement concurrency when it's applicable.
+
+**Thoughts:** Had a few busy days and didn't get to coding so I have a gap in my 100 days. I think that'll be ok if I can get back on track. 100 days of coding will still be helpful even if it's not completely sequential.
+
+**Link to work:** [Concurrency.java](https://github.com/jdsandifer/HackerRank/blob/master/Java/Concurrency.java)
