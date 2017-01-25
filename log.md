@@ -63,8 +63,6 @@
 
 ### Day 9: January 24th, 2017 (Tuesday)
 
-**Today's Progress:** Today I worked on making the graph in my app correctly display real data - instead of my stand-in values.
+**Today's Progress:** Today I worked on making the graph in my app correctly display real data - instead of my stand-in values. Converted my weight record to a singleton for easy global access and because it makes sense for it to be one.
 
-**Thoughts:** 
-
-**Link to work:**
+**Thoughts:** Still in progress...app is freezing after initial load now. Singleton code seems like the obvious source, but the app gets past the initialization of it and freezes later...
