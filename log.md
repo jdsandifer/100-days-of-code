@@ -52,3 +52,19 @@
 **Thoughts:** Had a few busy days and didn't get to coding so I have a gap in my 100 days. I think that'll be ok if I can get back on track. 100 days of coding will still be helpful even if it's not completely sequential.
 
 **Link to work:** [Concurrency.java](https://github.com/jdsandifer/HackerRank/blob/master/Java/Concurrency.java)
+
+
+### Day 6 - 8: Not Logged
+
+**Progress:** I answered questions on Treehouse for both Android and Java on three different days. 
+
+**Thoughts:** I realized that although this isn't work on projects, it is related to preparing for an interview and job in development. Thinking quickly, discussing my approaches and solutions to problems, and helping coworkers will all be important for landing and keepiing a development position. So I'm going to allow it.
+
+
+### Day 9: January 24th, 2017 (Tuesday)
+
+**Today's Progress:** Today I worked on making the graph in my app correctly display real data - instead of my stand-in values.
+
+**Thoughts:** 
+
+**Link to work:**
