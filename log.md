@@ -58,7 +58,7 @@
 
 **Progress:** I answered questions on Treehouse for both Android and Java on three different days. 
 
-**Thoughts:** I realized that although this isn't work on projects, it is related to preparing for an interview and job in development. Thinking quickly, discussing my approaches and solutions to problems, and helping coworkers will all be important for landing and keepiing a development position. So I'm going to allow it.
+**Thoughts:** I realized that although this isn't work on projects, it is related to preparing for an interview and a job in development. Thinking quickly, discussing my approaches and solutions to problems, and helping coworkers will all be important for landing and keepiing a development position. So I'm going to allow it.
 
 
 ### Day 9: January 24th, 2017 (Tuesday)
@@ -66,3 +66,10 @@
 **Today's Progress:** Today I worked on making the graph in my app correctly display real data - instead of my stand-in values. Converted my weight record to a singleton for easy global access and because it makes sense for it to be one.
 
 **Thoughts:** Still in progress...app is freezing after initial load now. Singleton code seems like the obvious source, but the app gets past the initialization of it and freezes later...
+
+
+### Day 10 & 11: January 25th & 26th, 2017 (Wednesday & Thursday)
+
+**Today's Progress:** Answered more questions on Treehouse about Java.
+
+**Thoughts:** I do want to make sure my question answering isn't keeping me from progressing on my apps, but it's a great way to stay actively thinking about Java and Android without having to get my development computer up and running. This probably means I need to get Android Studio working on my laptop so working on projects is as easy as answering questions...
