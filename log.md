@@ -73,3 +73,14 @@
 **Today's Progress:** Answered more questions on Treehouse about Java.
 
 **Thoughts:** I do want to make sure my question answering isn't keeping me from progressing on my apps, but it's a great way to stay actively thinking about Java and Android without having to get my development computer up and running. This probably means I need to get Android Studio working on my laptop so working on projects is as easy as answering questions...
+
+
+### Day 12: February 5th, 2017 (Sunday)
+
+**Today's Progress:** Started figuring out some Regex searches for a little project for a friend.
+
+**Thoughts:** It's been a month since I started 100 Days of Code and I'm only on day 12. I'm not sure my leniency with the rules is as helpful as I thought, but it has kept me from quitting - so that's good. I also want to be flexible with the varying demands of my work schedule and other activities so it's hard to commit to coding every day.
+
+But I probably should set my standards higher than they have been recently...
+
+I definitely like my "just do some coding" variant of the "one hour of coding per day" rule, though. It's easy to get close to an hour if I just start, but harder if I have to block out a full hour - it seems more daunting as a full hour.
