@@ -91,3 +91,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Today's Progress:** More Regex and I sketched out an outline for the code for my friend's project. Also started BibleStatistics repo.
 
 **Thoughts:** I'm trying to decide about what kind of balance I want to strike between finishing the project and getting my friend the results quickly, and taking the time to really use unit testing, functional Java, etc. to make it very "professional" looking on Github.
+
+
+### Day 14: February 8th, 2017 (Wednesday)
+
+**Today's Progress:** Created the first Java class with basic file IO for the BibleStatistics repo.
+
+**Thoughts:** So far so good.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
