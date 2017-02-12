@@ -109,3 +109,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Should be a lot smoother going forward.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 16: February 12th, 2017 (Sunday)
+
+**Today's Progress:** Loaded up a new editing environment on my laptop to be able to code easier and more often. Started using that and taking the next step on my friend's project. 
+
+**Thoughts:** Haha. Not as smooth as I thought. Bugs can be lurking anywhere, but that's what I'm here for I guess.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
