@@ -100,3 +100,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** So far so good.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 15: February 11th, 2017 (Saturday)
+
+**Today's Progress:** Got the first Regex working to separate the text into books. Had to fix the text reading function in the process. 
+
+**Thoughts:** Should be a lot smoother going forward.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
