@@ -118,3 +118,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Haha. Not as smooth as I thought. Bugs can be lurking anywhere, but that's what I'm here for I guess.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 17: February 13th, 2017 (Monday)
+
+**Today's Progress:** Got Bible input, regex searching, text splitting, book object creation, and book statistics file printing all working for my friend's project!
+
+**Thoughts:** Lots of weirdness in translating files. Different encodings and line terminations, weird symbols, and so on. I'll have to learn more about how to create the Bible text file correctly to start with *and* how to keep the text in the same encoding and readable.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
