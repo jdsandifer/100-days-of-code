@@ -127,3 +127,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Lots of weirdness in translating files: Different encodings and line terminations, weird symbols, and so on. I'll have to learn more about how to create the Bible text file correctly to start with *and* how to keep the text in the right encodings. Definitely feel like I can see the light at the end of the tunnel now, though. Just verse files to go and then revising for more professional presentation - tests, refactoring, etc.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 18: February 14th, 2017 (Tuesday)
+
+**Today's Progress:** I added verse list creation, sorting, and file outputs. The basic Bible statistics program is now complete!
+
+**Thoughts:** I'm going to add testing, and do some refartoring for design patterns and object oriented principles, but I'm most excited to work more on understanding encodings and how to detect them and use them. I'm especially interested in figuring out the best "portable" format for my text files and CSV's. (Encoding and newline code.)
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
