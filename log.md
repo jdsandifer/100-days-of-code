@@ -136,3 +136,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** I'm going to add testing, and do some refartoring for design patterns and object oriented principles, but I'm most excited to work more on understanding encodings and how to detect them and use them. I'm especially interested in figuring out the best "portable" format for my text files and CSV's. (Encoding and newline code.)
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 19: February 15th, 2017 (Wednesday)
+
+**Today's Progress:** I added folders to better organize the Bible Statistics project.
+
+**Thoughts:** Refactoring is next.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
