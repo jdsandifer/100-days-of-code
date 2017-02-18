@@ -154,3 +154,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** I'm excited to get a stronger grasp on file encodings and line terminator!
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 21: February 17th, 2017 (Friday)
+
+**Today's Progress:** Got the first encodings test code working.
+
+**Thoughts:** The problem is that all encodings worked on the same file...and then threw exceptions. I'll just have to keep trying.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
