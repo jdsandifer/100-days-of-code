@@ -163,3 +163,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** The problem is that all encodings worked on the same file...and then threw exceptions. I'll just have to keep trying.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 22: February 18th, 2017 (Saturday)
+
+**Today's Progress:** Gave up on encodings test after more testing and some more research. There are libararies out there to help, but it's still just guessing the encoding based on character frequency or presenting the user with samples from which to choose.
+
+**Thoughts:** A little sad that there's no easier or more bullet-proof solution, but it makes sense why there isn't.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
