@@ -172,3 +172,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** A little sad that there's no easier or more bullet-proof solution, but it makes sense why there isn't.
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 23: February 19th, 2017 (Sunday)
+
+**Today's Progress:** Added jUnit to the project and started writing unit tests. Began with the Verse class.
+
+**Thoughts:** I'm looking for a way to streamline my testing while sticking to my simplified command line and text editor setup. Might be good to try to use Gradle in this environment to gain a fuller understanding of how it works. A batch file (or bash script) might also do the trick and be a good skill-building exercise, too. 
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
