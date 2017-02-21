@@ -181,3 +181,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** I'm looking for a way to streamline my testing while sticking to my simplified command line and text editor setup. Might be good to try to use Gradle in this environment to gain a fuller understanding of how it works. A batch file (or bash script) might also do the trick and be a good skill-building exercise, too. 
 
 **Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+
+
+### Day 24: February 20th, 2017 (Monday)
+
+**Today's Progress:** Added tests for the Chapter class and a file with the JUnit commands for copying to the command line.
+
+**Thoughts:** One quarter of the way through the challenge! Feeling good now. It really helps to insist to myself that I get a little coding in each day.
+
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
