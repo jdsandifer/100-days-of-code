@@ -99,7 +99,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** So far so good.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReader.java)
 
 
 ### Day 15: February 11th, 2017 (Saturday)
@@ -108,7 +108,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Should be a lot smoother going forward.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReader.java)
 
 
 ### Day 16: February 12th, 2017 (Sunday)
@@ -117,7 +117,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Haha. Not as smooth as I thought. Bugs can be lurking anywhere, but that's what I'm here for I guess.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReader.java)
 
 
 ### Day 17: February 13th, 2017 (Monday)
@@ -126,7 +126,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Lots of weirdness in translating files: Different encodings and line terminations, weird symbols, and so on. I'll have to learn more about how to create the Bible text file correctly to start with *and* how to keep the text in the right encodings. Definitely feel like I can see the light at the end of the tunnel now, though. Just verse files to go and then revising for more professional presentation - tests, refactoring, etc.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReader.java)
 
 
 ### Day 18: February 14th, 2017 (Tuesday)
@@ -135,7 +135,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** I'm going to add testing, and do some refartoring for design patterns and object oriented principles, but I'm most excited to work more on understanding encodings and how to detect them and use them. I'm especially interested in figuring out the best "portable" format for my text files and CSV's. (Encoding and newline code.)
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReader.java)
 
 
 ### Day 19: February 15th, 2017 (Wednesday)
@@ -144,7 +144,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Refactoring is next.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleStatistics](https://github.com/jdsandifer/BibleStatistics/tree/master)
 
 
 ### Day 20: February 16th, 2017 (Thursday)
@@ -153,7 +153,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** I'm excited to get a stronger grasp on file encodings and line terminator!
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [input folder](https://github.com/jdsandifer/BibleStatistics/tree/master/input)
 
 
 ### Day 21: February 17th, 2017 (Friday)
@@ -162,7 +162,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** The problem is that all encodings worked on the same file...and then threw exceptions. I'll just have to keep trying.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [EncodingReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/EncodingReader.java)
 
 
 ### Day 22: February 18th, 2017 (Saturday)
@@ -171,7 +171,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** A little sad that there's no easier or more bullet-proof solution, but it makes sense why there isn't.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [BibleStatistics](https://github.com/jdsandifer/BibleStatistics/tree/master/src)
 
 
 ### Day 23: February 19th, 2017 (Sunday)
@@ -180,7 +180,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** I'm looking for a way to streamline my testing while sticking to my simplified command line and text editor setup. Might be good to try to use Gradle in this environment to gain a fuller understanding of how it works. A batch file (or bash script) might also do the trick and be a good skill-building exercise, too. 
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [VerseTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/VerseTest.java)
 
 
 ### Day 24: February 20th, 2017 (Monday)
@@ -189,4 +189,13 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** One quarter of the way through the challenge! Feeling good now. It really helps to insist to myself that I get a little coding in each day.
 
-**Link to work:** [BibleReader.java](https://github.com/jdsandifer/BibleStatistics/blob/master/BibleReader.java)
+**Link to work:** [ChapterTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/ChapterTest.java)
+
+
+### Day 25: February 21st, 2017 (Tuesday)
+
+**Today's Progress:** Added tests for the Book class and updated the Readme on GitHub.
+
+**Thoughts:** Realized my links don't work anymore and went about fixing that... :(
+
+**Link to work:** [BookTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BookTest.java)
