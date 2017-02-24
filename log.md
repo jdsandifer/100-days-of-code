@@ -199,3 +199,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Realized my links don't work anymore and went about fixing that... :(
 
 **Link to work:** [BookTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BookTest.java)
+
+
+### Day 26: February 23rd, 2017 (Thursday)
+
+**Today's Progress:** Refactored a function out of the main program and into a new file - primarily to better allow for testing.
+
+**Link to work:** [BibleParser.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParser.java)
