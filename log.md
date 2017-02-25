@@ -206,3 +206,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Today's Progress:** Refactored a function out of the main program and into a new file - primarily to better allow for testing.
 
 **Link to work:** [BibleParser.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParser.java)
+
+
+### Day 27: February 24th, 2017 (Friday)
+
+**Today's Progress:** Finished refactoring Bible parsing functions to BibleParser.java. Also added a simple print line function and a command line argument reader.
+
+**Thoughts:** Feels a little like I'm creating a Unix command! I.e. awesome...
+
+**Link to work:** [BibleParser.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParser.java)
