@@ -215,3 +215,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Feels a little like I'm creating a Unix command! I.e. awesome...
 
 **Link to work:** [BibleParser.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParser.java)
+
+
+### Day 23: February 25th, 2017 (Saturday)
+
+**Today's Progress:** Refactored file formatting out of main and created FileFormatter.java for the purpose.
+
+**Thoughts:** Need to see if the refactored code works now...but I am feeling good about my ability to refactor code without breaking it!
+
+**Link to work:** [FileFormatter.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatter.java)
