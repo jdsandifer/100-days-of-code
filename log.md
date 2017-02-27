@@ -224,3 +224,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Need to see if the refactored code works now...but I am feeling good about my ability to refactor code without breaking it!
 
 **Link to work:** [FileFormatter.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatter.java)
+
+
+### Day 29: February 26th, 2017 (Sunday)
+
+**Today's Progress:** Refactored code compiles fine now. Also updated some todos I had left in the code because they're done now. Did some testing with for loops to determine when each argument gets called (init = once, test = before the loop, change = after the loop). Also tested pre-incrementing and post-incrementing variables in the test and change sections.
+
+**Thoughts:** It may seem silly, but really understanding the fundamentals (for loops in this case) is one of the things that separates highly skilled people from the rest of the bunch. They can do the fundamentals better as well as do the awesome stuff.
+
+**Link to work:** [FileFormatter.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatter.java)
