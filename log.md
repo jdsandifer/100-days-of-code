@@ -233,3 +233,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** It may seem silly, but really understanding the fundamentals (for loops in this case) is one of the things that separates highly skilled people from the rest of the bunch. They can do the fundamentals better as well as do the awesome stuff.
 
 **Link to work:** [FileFormatter.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatter.java)
+
+
+### Day 30: February 27th, 2017 (Monday)
+
+**Today's Progress:** Added first test for FileFormatter.
+
+**Link to work:** [FileFormatterTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatterTest.java)
