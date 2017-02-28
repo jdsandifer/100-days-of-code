@@ -240,3 +240,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Today's Progress:** Added first test for FileFormatter.
 
 **Link to work:** [FileFormatterTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatterTest.java)
+
+
+### Day 31: February 28th, 2017 (Tuesday)
+
+**Today's Progress:** Got the first test for FileFormatter working.
+
+**Link to work:** [FileFormatterTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatterTest.java)
