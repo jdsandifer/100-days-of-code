@@ -253,5 +253,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Today's Progress:** Added tests for BibleReader and BibleParser, and removed refactored methods (no longer needed in current class).
 
+**Thoughts:** One third of the way there (almost)! It's going to be a long haul, but my GitHub is already starting to look a lot more complete (more green squares on my profile).
+
 **Links to work:** [BibleParserTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParserTest.java), 
                    [BibleReaderTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReaderTest.java)
