@@ -247,3 +247,11 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Today's Progress:** Got the first test for FileFormatter working.
 
 **Link to work:** [FileFormatterTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/FileFormatterTest.java)
+
+
+### Day 32: March 2nd, 2017 (Thursday)
+
+**Today's Progress:** Added tests for BibleReader and BibleParser, and removed refactored methods (no longer needed in current class).
+
+**Links to work:** [BibleParserTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParserTest.java)
+                   [BibleReaderTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReaderTest.java)
