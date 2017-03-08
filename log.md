@@ -257,3 +257,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Links to work:** [BibleParserTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParserTest.java), 
                    [BibleReaderTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleReaderTest.java)
+                   
+
+### Day 33: March 7th, 2017 (Tuesday)
+
+**Today's Progress:** Created a batch file to automate testing a little. Now I just drag the file to test onto the batch file and it compiles it, it's test file, and runs the test.
+
+**Thoughts:** I've been sick for a few days so it's been hard to keep up. It's also taking significantly longer to get things done as I'm sure my brain is slow right now.
+
+**Link to work:** [CompileAndTest.bat](https://github.com/jdsandifer/BibleStatistics/blob/master/src/CompileAndTest.bat)
