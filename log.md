@@ -266,3 +266,12 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** I've been sick for a few days so it's been hard to keep up. It's also taking significantly longer to get things done as I'm sure my brain is slow right now.
 
 **Link to work:** [CompileAndTest.bat](https://github.com/jdsandifer/BibleStatistics/blob/master/src/CompileAndTest.bat)
+
+
+### Day 34: March 8th, 2017 (Wednesday)
+
+**Today's Progress:** Completed tests for BibleParser, and put refactored methods back into BibleParser (accidentally removed from the project entirely).
+
+**Thoughts:** Tests look good, but aren't actually passing. I'll have to look into the Hamcrest matchers - need a deepEquals kind of thing.
+
+**Links to work:** [BibleParserTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParserTest.java)
