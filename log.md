@@ -275,3 +275,13 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Thoughts:** Tests look good, but aren't actually passing. I'll have to look into the Hamcrest matchers - need a deepEquals kind of thing.
 
 **Links to work:** [BibleParserTest.java](https://github.com/jdsandifer/BibleStatistics/blob/master/src/BibleParserTest.java)
+
+
+### Days 35 & 36: March 9th & 10th, 2017 (Thursday & Friday)
+
+**Today's Progress:** I began and continued work on my Portfolio page on GitHub. This is definitely useful to my job search and it's also a good reminder about how to code markdown so I'm allowing it.
+
+**Thoughts:** I'll have to go back and look at my refence portfolio sites, but I like the neat look of it so far. It should make seeing my completed projects easier for anyone looking at my repos.
+
+**Links to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+
