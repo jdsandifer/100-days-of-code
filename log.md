@@ -285,3 +285,19 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Links to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
 
+
+### Day 37: March 12th, 2017 (Sunday)
+
+**Today's Progress:** Spent some time getting a virtual server up an running to test PHP coding work for my job.
+
+**Thoughts:** It's nice having some "real" (job) coding work to do.
+
+
+### Day 38: March 13th, 2017 (Monday)
+
+**Today's Progress:** Spent 5 hours working on setting up the server at work and fixing some code.
+
+**Thoughts:** It was anti-climactic because while we fixed some code, the server errored and will have to get a fresh install.
+
+**Links to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+
