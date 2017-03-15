@@ -301,3 +301,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Links to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
 
+
+### Day 39: March 14th, 2017 (Tuesday)
+
+**Today's Progress:** Spent some time on PHP coding again and also tweaked some of my repositories to make more sense to the casual observer.
+
+**Thoughts:** Trying to keep my GitHub activity squares green is a great incentive to do some coding each day, too.
+
