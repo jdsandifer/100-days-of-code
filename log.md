@@ -308,3 +308,17 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Trying to keep my GitHub activity squares green is a great incentive to do some coding each day, too.
 
+
+### Day 40: March 16th, 2017 (Thursday)
+
+**Today's Progress:** Spent some time on figuring out details of PHP for work: lazy logical operator evaluation, functions, references.
+
+**Thoughts:** I love diving into the details like that.
+
+
+### Day 41: March 17th, 2017 (Friday)
+
+**Today's Progress:** Spent some time on PHP coding again at work.
+
+**Thoughts:** Wish I had more time to code...
+
