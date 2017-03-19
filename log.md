@@ -322,3 +322,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** Wish I had more time to code...
 
+
+### Day 42: March 18th, 2017 (Saturday)
+
+**Today's Progress:** More PHP coding again at work.
+
+**Thoughts:** It's hard deciding on a coding style - especially for mixed PHP, HTML, JavaScript, and CSS in the same file.
+
