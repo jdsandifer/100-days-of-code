@@ -329,3 +329,10 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** It's hard deciding on a coding style - especially for mixed PHP, HTML, JavaScript, and CSS in the same file.
 
+
+### Day 43: March 19th, 2017 (Sunday)
+
+**Today's Progress:** I started to apply what I've been learning from Kevlin Henney about good code and test naming. I'm going through the BibleStatistics project alphabetically and refactoring names in each file. I'm also adding variables for the regex to clarify their purposes.
+
+**Thoughts:** I'm getting a handle on good naming, but still not sure about exact style - especially bracket placement. For now I'm sticking with standard Java style for that.
+
