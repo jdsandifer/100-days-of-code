@@ -299,7 +299,7 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Thoughts:** It was anti-climactic because while we fixed some code, the server errored and will have to get a fresh install.
 
-**Links to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+**Link to work:** [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
 
 
 ### Day 39: March 14th, 2017 (Tuesday)
@@ -320,14 +320,14 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 
 **Today's Progress:** Spent some time on PHP coding again at work.
 
-**Thoughts:** Wish I had more time to code...
+**Thoughts:** Wish I had more time to code ... at home or at work.
 
 
 ### Day 42: March 18th, 2017 (Saturday)
 
 **Today's Progress:** More PHP coding again at work.
 
-**Thoughts:** It's hard deciding on a coding style - especially for mixed PHP, HTML, JavaScript, and CSS in the same file.
+**Thoughts:** It's hard deciding on a code style - especially for mixed PHP, HTML, JavaScript, and CSS in the same file.
 
 
 ### Day 43: March 19th, 2017 (Sunday)
@@ -335,4 +335,43 @@ I definitely like my "just do some coding" variant of the "one hour of coding pe
 **Today's Progress:** I started to apply what I've been learning from Kevlin Henney about good code and test naming. I'm going through the BibleStatistics project alphabetically and refactoring names in each file. I'm also adding variables for the regex to clarify their purposes.
 
 **Thoughts:** I'm getting a handle on good naming, but still not sure about exact style - especially bracket placement. For now I'm sticking with standard Java style for that.
+
+
+### Day 44: March 21st, 2017 (Tuesday)
+
+**Today's Progress:** I did some work on my GitHub today.
+
+**Thoughts:** There's a *lot* of work to be done on my GitHub: refactoring with better naming all over, adding tests to several projects, and cleaning up readme's so the projects are all clear to visitors.
+
+
+### Day 45: March 23rd, 2017 (Thursday)
+
+**Today's Progress:** Made some improvements (refactoring) to the group coding 
+challenge that we used at a PDXNode meetup a while ago. Mainly renaming tests 
+to provide more information and for clarity. Also added some tests to the first 
+challenge and used better asserts there to set a good example for the rest of 
+the challenges.
+
+**Thoughts:** Still more work to do on my GitHub, but all these tweaks make it 
+easy to keep getting green boxes at least!
+
+**Link to work:** [Group Coding Challenge - Test.js]
+(https://github.com/jdsandifer/group-coding-challenge/blob/master/test.js)
+
+
+### Day 46: March 24th, 2017 (Friday)
+
+**Today's Progress:** Tweaked my portfolio again and then added a Design 
+Patterns repo to start taking notes on and practicing what I'm learning as I 
+study the common design patterns. They make sense now, but I want to make sure 
+I retain the information so it is easy to recall - on the job or for an 
+interview.
+
+**Thoughts:** I checked out [Enterprise Fizz Buzz]
+(https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) today. 
+That was a good laugh! It was also good practice at reading code with lots of 
+design patterns, abstraction, and encapsulation. Too much for the problem, 
+obviously, but a good exercise nonetheless.
+
+**Link to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
 
