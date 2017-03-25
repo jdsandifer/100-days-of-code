@@ -352,6 +352,9 @@ to provide more information and for clarity. Also added some tests to the first
 challenge and used better asserts there to set a good example for the rest of 
 the challenges.
 
+I submitted a pull request for the PDXNode leader's original repo and it got merged. 
+I think that marks my first successful pull request on GitHub - a big day!
+
 **Thoughts:** Still more work to do on my GitHub, but all these tweaks make it 
 easy to keep getting green boxes at least!
 
