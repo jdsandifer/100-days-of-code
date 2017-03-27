@@ -358,8 +358,7 @@ I think that marks my first successful pull request on GitHub - a big day!
 **Thoughts:** Still more work to do on my GitHub, but all these tweaks make it 
 easy to keep getting green boxes at least!
 
-**Link to work:** [Group Coding Challenge - Test.js]
-(https://github.com/jdsandifer/group-coding-challenge/blob/master/test.js)
+**Link to work:** [Group Coding Challenge - Test.js](https://github.com/jdsandifer/group-coding-challenge/blob/master/test.js)
 
 
 ### Day 46: March 24th, 2017 (Friday)
@@ -370,13 +369,12 @@ study the common design patterns. They make sense now, but I want to make sure
 I retain the information so it is easy to recall - on the job or for an 
 interview.
 
-**Thoughts:** I checked out [Enterprise Fizz Buzz]
-(https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) today. 
+**Thoughts:** I checked out [Enterprise Fizz Buzz](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) today. 
 That was a good laugh! It was also good practice at reading code with lots of 
 design patterns, abstraction, and encapsulation. Too much for the problem, 
 obviously, but a good exercise nonetheless.
 
-**Links to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+**Links to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md), 
                     [DesignPatterns](https://github.com/jdsandifer/DesignPatterns/blob/master/README.md)
 
 
