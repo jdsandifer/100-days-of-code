@@ -376,7 +376,8 @@ That was a good laugh! It was also good practice at reading code with lots of
 design patterns, abstraction, and encapsulation. Too much for the problem, 
 obviously, but a good exercise nonetheless.
 
-**Link to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+**Links to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+                    [DesignPatterns](https://github.com/jdsandifer/DesignPatterns/blob/master/README.md)
 
 
 ### Day 47: March 25th, 2017 (Saturday)
@@ -389,6 +390,11 @@ fixing bad code style some to help read the code, but not too much as that
 distracts from actually fixing bugs, helping a coworker with a tangential issue,
 and the list goes on. Good stuff. And I still like the programming.
 
+I also added my Strategy Pattern notes and an interface to my Design Patterns 
+repository.
+
 **Thoughts:** I'm glad even crazy code and difficult bug fixing are not 
 discouraging me from doing programming.
+
+**Link to work:**  [Strategy Pattern](https://github.com/jdsandifer/DesignPatterns/blob/master/strategy/strategy-notes.md)
 
