@@ -378,3 +378,17 @@ obviously, but a good exercise nonetheless.
 
 **Link to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
 
+
+### Day 47: March 25th, 2017 (Saturday)
+
+**Today's Progress:** I got to work on PHP programming at work a lot today. 
+So that was great! It was actually a pretty good approximation to what a 
+programming job might look like, too. Discussing the issue list with a 
+coworker, tackling the issue list, searching through code written by others,
+fixing bad code style some to help read the code, but not too much as that 
+distracts from actually fixing bugs, helping a coworker with a tangential issue,
+and the list goes on. Good stuff. And I still like the programming.
+
+**Thoughts:** I'm glad even crazy code and difficult bug fixing are not 
+discouraging me from doing programming.
+
