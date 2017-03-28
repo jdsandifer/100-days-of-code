@@ -396,3 +396,31 @@ discouraging me from doing programming.
 
 **Link to work:**  [Strategy Pattern](https://github.com/jdsandifer/DesignPatterns/blob/master/strategy/strategy-notes.md)
 
+
+### Day 48: March 27th, 2017 (Monday)
+
+**Today's Progress:** I got to work on more PHP programming at work today
+as well as do some networking and computer setup for the presentation server.
+A full day of programming related tasks!
+
+**Thoughts:** I'm getting to see the not-so-fun side of working on software 
+development projects and I'm not dissuaded from the field. It's good to have 
+more realistic expectations, but still like the work overall. Yay!
+
+
+### Day 49: March 28th, 2017 (Tuesday)
+
+**Today's Progress:** I dived back into Android Studio and my Simple Weight 
+Grapher app. That included lots of updating stuff, working on fixing Git 
+integration, and code edits - mainly for style today (so it's more readable). 
+
+I also got a nice-looking theme for Android Studio so I like the look of the 
+code while I'm working on it. I'm using the Dracula IDE theme for dark colors 
+and Monokai from Sublime (a port) for the actual code coloring.
+
+**Thoughts:** It didn't take nearly as long as I thought it would to update 
+everything. Although, Git integration isn't working perfectly - I'm using 
+GitHub desktop to push commits to the repository on GitHub.
+
+**Link to work:**  [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher)
+
