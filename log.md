@@ -410,7 +410,7 @@ more realistic expectations, but still like the work overall. Yay!
 
 ### Day 49: March 28th, 2017 (Tuesday)
 
-**Today's Progress:** I dived back into Android Studio and my Simple Weight 
+**Today's Progress:** I dove back into Android Studio and my Simple Weight 
 Grapher app. That included lots of updating stuff, working on fixing Git 
 integration, and code edits - mainly for style today (so it's more readable). 
 
@@ -423,4 +423,47 @@ everything. Although, Git integration isn't working perfectly - I'm using
 GitHub desktop to push commits to the repository on GitHub.
 
 **Link to work:**  [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher)
+
+
+### Day 50: March 29th, 2017 (Wednesday)
+
+**Today's Progress:** I fixed two issues - including one major bug - while 
+under time and supervisor pressure at work today. I felt good about keeping the 
+presentation file server on its feet, and my skills in PHP and reading through 
+other people's code to find bugs.
+
+It was hard-to-read code, too. That's not to say anything against those who 
+wrote it. They taught themselves to code, created the system as a side project 
+while juggling all their regular tasks, and got the project approved despite it 
+being something completely new to our department (and field, essentially).
+
+It's definitely an admirable feat. Bad code style and practices just happen to 
+be a byproduct of how it was made. And I'm learning how to navigate it successfully.
+
+**Thoughts:** I'm also learning how to react less to the terrible code practices 
+I'm seeing. I've got a ways to go, but hopefully I can decrease the amount of 
+"Wow, that's terrible!" responses and increase the "Hmm...I think this could be 
+improved a bit." responses. Or even not respond at all some times and just file 
+my ideas for improvement away for the next time I have the chance to fix it.
+
+But man is that a tough growth process.
+
+
+### Day 51: March 30th, 2017 (Thursday)
+
+**Today's Progress:** I had to restart the server today at work and was able to 
+do so with a minimal amount of fuss. I also continued bug fixing and code syling 
+in PHP, JavaScript, HTML, and CSS at work.
+
+At home, I added more design pattern definitions to my repo. I'm not prioritizing 
+it as much as actual coding, but it's easy to work on it bit by bit when I only 
+have a few moments for coding at the end of the day and nice to do since I can't 
+put my work coding on GitHub.
+
+**Thoughts:** I'm excited about my growing comfort with Linux and the command line, 
+even when my reputation is on the line. There's nothing like a time crunch when your 
+boss is watching to help clarify the difference between what you know and what you 
+think you know.
+
+**Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
 
