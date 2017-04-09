@@ -458,7 +458,7 @@ in PHP, JavaScript, HTML, and CSS at work.
 At home, I added more design pattern definitions to my repo. I'm not prioritizing 
 it as much as actual coding, but it's easy to work on it bit by bit when I only 
 have a few moments for coding at the end of the day and nice to do since I can't 
-put my work coding on GitHub.
+put my work code on GitHub.
 
 **Thoughts:** I'm excited about my growing comfort with Linux and the command line, 
 even when my reputation is on the line. There's nothing like a time crunch when your 
@@ -466,4 +466,15 @@ boss is watching to help clarify the difference between what you know and what y
 think you know.
 
 **Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
+
+
+### Day 52: March 31st, 2017 (Friday)
+
+**Today's Progress:** I got Espresso installed in my SWG project and wrote my first 
+test. 
+
+**Thoughts:** It's a pretty straightforward setup - just got use it more and more so I'm 
+comfortable with it and I know some of the tricks to test harder things.
+
+**Link to work:**  [Espresso Test #1](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/app/src/androidTest/java/com/jdsandifer/simpleweightgrapher/WeightUITest.java)
 
