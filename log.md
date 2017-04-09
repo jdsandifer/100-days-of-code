@@ -478,3 +478,21 @@ comfortable with it and I know some of the tricks to test harder things.
 
 **Link to work:**  [Espresso Test #1](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/app/src/androidTest/java/com/jdsandifer/simpleweightgrapher/WeightUITest.java)
 
+
+### Day 53: April 1st, 2017 (Saturday)
+
+**Today's Progress:** More additions to my Design Patterns repo.
+
+**Thoughts:** It's going to take a while to finish this repo...
+
+**Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
+
+
+### Day 54: April 3rd, 2017 (Monday)
+
+**Today's Progress:** Got the Espresso test working now - it passes now. I also did some refactoring (renaming).
+
+**Thoughts:** Test naming is hard even if you have a lot of good ideas about how to name stuff.
+
+**Link to work:**  [Espresso Test #1 = Passing](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/app/src/androidTest/java/com/jdsandifer/simpleweightgrapher/WeightUITest.java)
+
