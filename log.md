@@ -496,3 +496,47 @@ comfortable with it and I know some of the tricks to test harder things.
 
 **Link to work:**  [Espresso Test #1 = Passing](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/app/src/androidTest/java/com/jdsandifer/simpleweightgrapher/WeightUITest.java)
 
+
+### Day 55: April 4th, 2017 (Tuesday)
+
+**Today's Progress:** Did a bunch of coding at work and a little work on design patterns at home.
+
+**Thoughts:** Just wish I could do more coding at work - it's fun to see the results of my work!
+
+**Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
+
+
+### Day 56: April 5th, 2017 (Wednesday)
+
+**Today's Progress:** I worked on the actual code in my strategy design pattern folder. 
+Just have to test it out now.
+
+**Thoughts:** Working on actual code is so important! I know a bunch about patterns, 
+but actually using interfaces, etc. takes practice to remember all the syntax and so on.
+
+**Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
+
+
+### Day 57: April 7th, 2017 (Friday)
+
+**Today's Progress:** I read the rest of the Pragmatic Programmer during downtime at work today. 
+Then I applied the JavaDoc and comment suggestions from the book to my design patterns repo.
+
+**Thoughts:** I'm more and more curious about how to decide how much information should 
+be conveyed in variable and function naming vs. comments and JavaDoc, etc. Obviously, 
+the more information in the code, the better, as that information is most guaranteed to be 
+accurate. But beyond that it gets trickier to decide.
+
+**Link to work:**  [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
+
+
+### Day 58: April 8th, 2017 (Saturday)
+
+**Today's Progress:** Today at work I was able to tackle some batch file programming 
+during downtime. I learned a bunch more about general syntax and the commands/programs 
+to change users, network configuration, and file sharing. The end result will be an 
+automated setup process for the file server clients so getting all the computers up and 
+running will be a lot easier.
+
+**Thoughts:** It's easier and easier to learn new things. Batch file programming just 
+took a lot of looking up syntax and the commands needed.
