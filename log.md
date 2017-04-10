@@ -540,3 +540,20 @@ running will be a lot easier.
 
 **Thoughts:** It's easier and easier to learn new things. Batch file programming just 
 took a lot of looking up syntax and the commands needed.
+
+
+### Day 59: April 9th, 2017 (Sunday)
+
+**Today's Progress:** I took an IKM JavaScript test today. That also led to a bunch of 
+post-test studying to understand the questions I wasn't so sure about. Lots of good practice
+and learning!
+
+I also tweaked my portfolio a little.
+
+**Thoughts:** I did ok on the test: 86% and 69th percentile worldwide. Considering JavaScript 
+is not my primary language right now, I felt pretty good about that. Better than two-thirds of 
+test takers and without any industry experience or college study in the subject...not bad. And 
+from an absolute score standpoint, I would have gotten a solid B in the subject if it were a class.
+IKM also listed my score as "Better Than Average" and just below the mark for "Top 25%."
+
+**Link to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
