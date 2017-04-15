@@ -557,3 +557,66 @@ from an absolute score standpoint, I would have gotten a solid B in the subject 
 IKM also listed my score as "Better Than Average" and just below the mark for "Top 25%."
 
 **Link to work:**  [Portfolio](https://github.com/jdsandifer/Portfolio/blob/master/README.md)
+
+
+### Day 60: April 10th, 2017 (Monday)
+
+**Today's Progress:** I took an IKM Java test today. I did pretty well on it, too. And it led to 
+more post-test studying to figure out the answers to some of the tricky questions I wasn't sure 
+about.
+
+**Thoughts:** I was very surprised at home some really poorly styled code actually compiled and 
+ran without problems - even working the way you might expect without weirdness.
+
+
+### Day 61: April 11th, 2017 (Tuesday)
+
+**Today's Progress:** I took an IKM Android test today. And more post-test studying and trying out 
+weird code in an online REPL: [repl.it](http://repl.it/).
+
+There were also some glitches in the test which I'm afraid affected my score. I got asked questions 
+that I had already skipped once which could easily increase have added negative points to my score.
+
+**Thoughts:** Even though I think the testing glitches affected my score, there were also some things 
+I knew nothing about. Having not used those features, I didn't need to know anything about them. I 
+think this is one drawback of these general knowledge tests. I could be an awesome Android programmer, 
+but if I've never used one item then my score would be lower than someone who's at least seen all of 
+the different features they ask about.
+
+
+### Day 62: April 12th, 2017 (Wednesday)
+
+**Today's Progress:** I worked for about an hour at work on code after finishing my assigned tasks 
+for the day. I was finishing my work on batch files to setup, teardown, and undo the network setup 
+for each computer we use in the file server setup (3 separate files).
+
+**Thoughts:** I enjoy learning new languages and was consistently surprised how fast it was and how 
+few commands it took to set everything up. Fun stuff!
+
+
+### Day 63: April 13th, 2017 (Thursday)
+
+**Today's Progress:** I took the Amazon online assessment test today. It was a great coding test 
+with unit tests that showed whether you were achieving the goal of the code. Some tests were 
+visible so you could see what wasn't working and some were hidden to test your ability to figure 
+out some edge cases on your own.
+
+**Thoughts:** I thought I did pretty well with all code compiling and all but 4 unit tests passing. 
+However, the recruiter said I did very well! So that was fun to hear.
+
+It's really great to see a company doing recruting the right way: Start with a quick skills assessment 
+based on actual work, not a multiple choice test. Then move to talking in person and finding out more. 
+No looking at the resume and just passing up on candidates because they don't fit a mold. Good to see 
+that some companies know how it's done!
+
+
+### Day 64: April 14th, 2017 (Friday)
+
+**Today's Progress:** I worked for a solid seven hours on code at work. It was great! We started 
+with some good whiteboarding to decide on the design of the feature we were working on. Then we 
+each took a part and started making it work. As we went, we changed how the interface was designed 
+as we saw how things were working. It was a pretty smooth and productive process!
+
+**Thoughts:** It was fun to really see how team programming could work. I wonder how similar 
+or different it will be on an actual software development team that does this full time. I'm 
+definitely excited to find out!
