@@ -620,3 +620,22 @@ as we saw how things were working. It was a pretty smooth and productive process
 **Thoughts:** It was fun to really see how team programming could work. I wonder how similar 
 or different it will be on an actual software development team that does this full time. I'm 
 definitely excited to find out!
+
+
+### Day 65: April 15th, 2017 (Saturday)
+
+**Today's Progress:** I worked for a solid seven and a half hours on code at work today. Most of it 
+was continuing on what we started yesterday. I definitely got some good unit testing in as part of 
+the process, too. 
+
+**Thoughts:** It was interesting seeing how long it actually took to achieve some of our project 
+goals compared to our estimations. Estimating is hard and takes lots of practice.
+
+
+### Day 66: April 18th, 2017 (Tuesday)
+
+**Today's Progress:** I got in an hour of coding at work today after finishing my assigned tasks. 
+I did some good work using DRY to make a function out of code that would otherwise have been repeated.
+
+**Thoughts:** It feels like I'm doing well at implementing good software development practices. I'm 
+starting to see it when I use good coding techniques.
