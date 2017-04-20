@@ -639,3 +639,19 @@ I did some good work using DRY to make a function out of code that would otherwi
 
 **Thoughts:** It feels like I'm doing well at implementing good software development practices. I'm 
 starting to see it when I use good coding techniques.
+
+
+### Day 67: April 19th, 2017 (Wednesday)
+
+**Today's Progress:** I worked on my website tonight. I setup redirects so visitors to the old website 
+pages - except for the index - will be redirected to the new pages in the lighting-designer directory.
+
+The other changes were the date, linking to Pinterest instead of Twitter in most cases, and updating the 
+info on the site a little.
+
+**Thoughts:** I'm about ready to make the new site live in its current form. This will give me a lot more 
+reason to finish it quickly - knowing anyone could see it as is...
+
+**Link to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](https://www.jdsandifer.com/lighting-designer/index.html)
+
+
