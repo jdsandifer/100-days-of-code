@@ -652,6 +652,6 @@ info on the site a little.
 **Thoughts:** I'm about ready to make the new site live in its current form. This will give me a lot more 
 reason to finish it quickly - knowing anyone could see it as is...
 
-**Link to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](https://www.jdsandifer.com/lighting-designer/index.html)
+**Link to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](http://www.jdsandifer.com/lighting-designer/index.html)
 
 
