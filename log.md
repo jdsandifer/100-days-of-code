@@ -652,6 +652,19 @@ info on the site a little.
 **Thoughts:** I'm about ready to make the new site live in its current form. This will give me a lot more 
 reason to finish it quickly - knowing anyone could see it as is...
 
-**Link to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](http://www.jdsandifer.com/lighting-designer/index.html)
+**Links to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](http://www.jdsandifer.com/lighting-designer/index.html)
+
+
+### Day ??: May 2nd, 2017 (Tuesday)
+
+**Today's Progress:** I interviewed at Amazon today! That was exciting. It was enough "coding" by itself, 
+but I also worked on a HackerRank problem today, too (Chutes and Ladders).
+
+**Thoughts:** I felt good about my answers to the behavioral questions today, but was bummed I didn't 
+do better on the technical ones (whiteboarding). However, I realized that some of the questions were 
+legitamitely difficult and would have been hard to complete in the alloted time anyway. I also brought 
+up some good points so maybe I did ok despite not acing them.
+
+**Link to work:**  [Chutes and Ladders](https://github.com/jdsandifer/HackerRank/blob/master/Java/ChutesAndLadders.java)
 
 
