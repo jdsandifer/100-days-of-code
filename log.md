@@ -655,6 +655,27 @@ reason to finish it quickly - knowing anyone could see it as is...
 **Links to work:**  [www.jdsandifer.com/lighting-designer/](https://github.com/jdsandifer/website-combined/tree/master/lighting-designer), [My Lighting Designer Website](http://www.jdsandifer.com/lighting-designer/index.html)
 
 
+### Day 68: April 20th, 2017 (Thursday)
+
+**Today's Progress:** I worked on server stuff at work again.
+
+**Thoughts:** It's still fun working on the server even though it's definitely more work now.
+
+
+### Day 69: April 22nd, 2017 (Saturday)
+
+**Today's Progress:** I worked on open source projects today: finding projects that I could make simple corrections or additions to without taking on a whole bunch of code and a development setup.
+
+**Thoughts:** I'm a little surprised at how difficult it is to find projects that just need a little maintanence, etc. Maybe I need to look at projects in languages other than Java.
+
+
+### Day 70: April 23nd, 2017 (Sunday)
+
+**Today's Progress:** I worked a little on my website today.
+
+**Thoughts:** There's a lot of design work and coding from scratch to do - seems a little overwhelming, but I'll finish it eventually!
+
+
 ### Day ??: May 2nd, 2017 (Tuesday)
 
 **Today's Progress:** I interviewed at Amazon today! That was exciting. It was enough "coding" by itself, 
