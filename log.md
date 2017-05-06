@@ -657,7 +657,7 @@ reason to finish it quickly - knowing anyone could see it as is...
 
 ### Day 68: April 20th, 2017 (Thursday)
 
-**Today's Progress:** I worked on server stuff at work again.
+**Today's Progress:** I worked on server stuff at work again - adding a timer to the server.
 
 **Thoughts:** It's still fun working on the server even though it's definitely more work now.
 
@@ -669,16 +669,43 @@ reason to finish it quickly - knowing anyone could see it as is...
 **Thoughts:** I'm a little surprised at how difficult it is to find projects that just need a little maintanence, etc. Maybe I need to look at projects in languages other than Java.
 
 
-### Day 70: April 23nd, 2017 (Sunday)
+### Day 70: April 23rd, 2017 (Sunday)
 
 **Today's Progress:** I worked a little on my website today.
 
 **Thoughts:** There's a lot of design work and coding from scratch to do - seems a little overwhelming, but I'll finish it eventually!
 
 
-### Day ??: May 2nd, 2017 (Tuesday)
+### Day 71: April 24th, 2017 (Monday)
 
-**Today's Progress:** I interviewed at Amazon today! That was exciting. It was enough "coding" by itself, 
+**Today's Progress:** I worked on the server timer at work again today.
+
+**Thoughts:** I got the timer working so that was cool.
+
+
+### Day 72: April 25th, 2017 (Tuesday)
+
+**Today's Progress:** I worked on merging braches in Git today. It's a vital skill for working on open source projects or any work project that uses Git - which includes a lot of them these days.
+
+**Thoughts:** I like using SourceTree and KDiff3 and I think those will be the tools I go to for Git control going forward. Although, there's certainly something to be said for practicing the command line Git commands.
+
+
+### Day 73: April 26th, 2017 (Wednesday)
+
+**Today's Progress:** I decided to work until I had my new website up. And I did it. It was sort of the bare minimum viable product, but that's a great incentive to finish it later.
+
+**Thoughts:** I might have to use that strategy more to get things done; barely done is better than not done at all.
+
+
+### Day 74: May 1st, 2017 (Monday)
+
+**Today's Progress:** I did a lot of interview prep because I have a technical interview on May 2nd (tomorrow). Algorithms, etc. - including HackerRank probjems - and more behavioral question prep.
+
+**Thoughts:** It was fun to review everything, but there's never enough time to learn everything.
+
+### Day 75: May 2nd, 2017 (Tuesday)
+
+**Today's Progress:** I interviewed for a Software Development position today! That was exciting. It was enough "coding" by itself, 
 but I also worked on a HackerRank problem today, too (Chutes and Ladders).
 
 **Thoughts:** I felt good about my answers to the behavioral questions today, but was bummed I didn't 
