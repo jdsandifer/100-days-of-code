@@ -762,4 +762,11 @@ up some good points so maybe I did ok despite not acing them.
 **Link to work:**  [Singleton Notes](https://github.com/jdsandifer/DesignPatterns/blob/master/singleton/singleton-notes.md)
 
 
+### Day 81: May 19th, 2017 (Friday)
+
+**Today's Progress:** I started a repository to house my notes about advanced Java topics I'm studying. First up: Garbage Collection.
+
+**Thoughts:** Now I just need to try out the tweaks I'm learning about.
+
+**Link to work:**  [Java Tuning](https://github.com/jdsandifer/JavaTuning)
 
