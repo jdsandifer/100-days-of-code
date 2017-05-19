@@ -703,6 +703,7 @@ reason to finish it quickly - knowing anyone could see it as is...
 
 **Thoughts:** It was fun to review everything, but there's never enough time to learn everything.
 
+
 ### Day 75: May 2nd, 2017 (Tuesday)
 
 **Today's Progress:** I interviewed for a Software Development position today! That was exciting. It was enough "coding" by itself, 
@@ -714,5 +715,51 @@ legitamitely difficult and would have been hard to complete in the alloted time 
 up some good points so maybe I did ok despite not acing them.
 
 **Link to work:**  [Chutes and Ladders](https://github.com/jdsandifer/HackerRank/blob/master/Java/ChutesAndLadders.java)
+
+
+### Day 76: May 4th, 2017 (Thursday)
+
+**Today's Progress:** I updated GitHub with my initial Chutes and Ladders problem code.
+
+**Thoughts:** I like this algorithm problem. It's so complex, but seams pretty straightforward to start with.
+
+**Link to work:**  [Chutes and Ladders](https://github.com/jdsandifer/HackerRank/blob/master/Java/ChutesAndLadders.java)
+
+
+### Day 77: May 5th, 2017 (Friday)
+
+**Today's Progress:** I worked more on the Chutes and Ladders problem code and finished the solution.
+
+**Thoughts:** I kept finding more and more complexity in this problem!
+
+**Link to work:**  [Chutes and Ladders](https://github.com/jdsandifer/HackerRank/blob/master/Java/ChutesAndLadders.java)
+
+
+### Day 78: May 6th, 2017 (Saturday)
+
+**Today's Progress:** I worked on solving another algorithm problem - Ransom Note - which is more of a basic data structure application problem.
+
+**Thoughts:** This problem was more straightforward than Chutes and Ladders for sure!
+
+**Link to work:**  [Ransom Note](https://github.com/jdsandifer/HackerRank/blob/master/Java/RansomNote.java)
+
+
+### Day 79: May 8th, 2017 (Monday)
+
+**Today's Progress:** I added GitHub issue tracking for my Simple Weight Graghing app so I can track my progress and not forget future feature ideas, etc.
+
+**Thoughts:** This is definitely a good business prep step.
+
+**Link to work:**  [SWG Issue](https://github.com/jdsandifer/SimpleWeightGrapher/issues)
+
+
+### Day 80: May 10th, 2017 (Wednesday)
+
+**Today's Progress:** I added a little more to my Design Patterns repo today. Need to keep this up so that repo gets finished - or something resembling finished...
+
+**Thoughts:** Not too much to think about this one. Wish I still had *Head-First Design Patterns* checked out to help with the process - copying definitions, summarizing their ideas, etc.
+
+**Link to work:**  [Singleton Notes](https://github.com/jdsandifer/DesignPatterns/blob/master/singleton/singleton-notes.md)
+
 
 
