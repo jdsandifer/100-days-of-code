@@ -770,3 +770,27 @@ up some good points so maybe I did ok despite not acing them.
 
 **Link to work:**  [Java Tuning](https://github.com/jdsandifer/JavaTuning)
 
+
+### Day 82: May 22nd, 2017 (Monday)
+
+**Today's Progress:** I did 8 hours of coding at work today. Mostly discussing code to do more than actual coding.
+
+**Thoughts:** Discussing code doesn't seem as productive as actual coding, but it is important and probably a good example of actual 
+work activities.
+
+
+### Day 83: May 23rd, 2017 (Tuesday)
+
+**Today's Progress:** I got back to working on my Simple Weight Grapher app! Did some work on directly accessing the database and adding interfaces for the database itself - abstracting it as a data source.
+
+**Thoughts:** Feels good to get back to it and I can see how far I've come!
+
+**Link to work:**  [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher)
+
+
+### Day 84: May 24th, 2017 (Wednesday)
+
+**Today's Progress:** Only 4 hours of coding at work today, but I got some things done.
+
+**Thoughts:** I'm still ok at the daily grind of coding - checking bug reports, fixing bugs, adding new features, etc. Good to know.
+
