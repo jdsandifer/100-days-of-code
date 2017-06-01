@@ -803,7 +803,8 @@ I'm also stoked about how we actually did coding at the CodeBytes meetup. We're 
 
 **Today's Progress:** I opened up some issues on the text-adventure-game repository to start discussion on some of the game architecture.
 
-**Thoughts:** Discussing the different parts of the game architecture seems like important practice in development as a team! Good stuff.
+**Thoughts:** Discussing the different parts of the game architecture seems like important practice in development as a team! 
+Good stuff.
 
 **Link to work:**  [Text Adventure Game Issues](https://github.com/CodeBytes-PDX/text_adventure_challenge/issues)
 
@@ -816,4 +817,20 @@ I'm also stoked about how we actually did coding at the CodeBytes meetup. We're 
 
 **Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
 
+
+### Day 87: May 31st, 2017 (Wednesday)
+
+**Today's Progress:** I had a long discussion with Jacob about the architecture for the text adventure game.
+
+**Thoughts:** I think talks like the one I had today are an important part of software development so I'm really excited 
+to practice the skills more: clear communication, compromise, persuasion, reading the room/chat, etc.
+
+
+### Day 88: June 1st, 2017 (Thursday)
+
+**Today's Progress:** I added some object definitions today.
+
+**Thoughts:** I went through a few iterations to the names and function code so I feel good about the code.
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
 
