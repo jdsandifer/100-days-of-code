@@ -792,5 +792,28 @@ work activities.
 
 **Today's Progress:** Only 4 hours of coding at work today, but I got some things done.
 
+I also went to my first CodeBytes meetup today where I got to code a little.
+
 **Thoughts:** I'm still ok at the daily grind of coding - checking bug reports, fixing bugs, adding new features, etc. Good to know.
+
+I'm also stoked about how we actually did coding at the CodeBytes meetup. We're also going to work as a team to finish up the game! Funstuff and great development practice.
+
+
+### Day 85: May 27th, 2017 (Saturday)
+
+**Today's Progress:** I opened up some issues on the text-adventure-game repository to start discussion on some of the game architecture.
+
+**Thoughts:** Discussing the different parts of the game architecture seems like important practice in development as a team! Good stuff.
+
+**Link to work:**  [Text Adventure Game Issues](https://github.com/CodeBytes-PDX/text_adventure_challenge/issues)
+
+
+### Day 86: May 28th, 2017 (Sunday)
+
+**Today's Progress:** I added the QUnit testing harness to the text adventure game.
+
+**Thoughts:** I feel good as a developer adding unit testing to the project.
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
 
