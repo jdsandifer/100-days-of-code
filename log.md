@@ -834,3 +834,30 @@ to practice the skills more: clear communication, compromise, persuasion, readin
 
 **Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
 
+
+### Day 89: June 2nd, 2017 (Friday)
+
+**Today's Progress:** I tweaked some code in the text adventure game repo and organized a little.
+
+**Thoughts:** I was really frustrated to see another member of the group had written a whole other version of the code I was working on - without any comment like it wasn't really a thing at all. He also deviated from our discussed API so it felt like all my work was wasted.
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
+
+### Day 90: June 3rd, 2017 (Saturday)
+
+**Today's Progress:** I changed the config.js to match our new design.
+
+**Thoughts:** Couldn't think what else to do since what I had planned to do had already been written...
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
+
+### Day 91: June 5th, 2017 (Monday)
+
+**Today's Progress:** I had a great chat with Jacob. We got some cohesion on what's next and devided up the work.
+
+**Thoughts:** Hopefully, we can figure it out and get things going well!
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
