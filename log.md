@@ -839,7 +839,9 @@ to practice the skills more: clear communication, compromise, persuasion, readin
 
 **Today's Progress:** I tweaked some code in the text adventure game repo and organized a little.
 
-**Thoughts:** I was really frustrated to see another member of the group had written a whole other version of the code I was working on - without any comment like it wasn't really a thing at all. He also deviated from our discussed API so it felt like all my work was wasted.
+**Thoughts:** I was really frustrated to see another member of the group had written a whole other version 
+of the code I was working on without any comment like it wasn't really a thing at all. He also deviated from 
+our discussed API so it felt like all my work was wasted.
 
 **Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
 
@@ -848,7 +850,7 @@ to practice the skills more: clear communication, compromise, persuasion, readin
 
 **Today's Progress:** I changed the config.js to match our new design.
 
-**Thoughts:** Couldn't think what else to do since what I had planned to do had already been written...
+**Thoughts:** Couldn't think of what else to do since what I had planned to do had already been written...
 
 **Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
 
@@ -860,4 +862,46 @@ to practice the skills more: clear communication, compromise, persuasion, readin
 **Thoughts:** Hopefully, we can figure it out and get things going well!
 
 **Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
+
+### Day 92: June 7th, 2017 (Wednesday)
+
+**Today's Progress:** Went to CodeBytes and did the hangman challenge. Good chance to learn more about react and npm.
+
+**Thoughts:** I pretty much hate it when people bring half of the code needed to complete the challenge. 
+It really seems to take away from the ability to collaborate. The first half of the time is spent learning 
+that person's code and then the rest is an uneasy stab at collaboration that doesn't usually go well. In the two times 
+I've tried so far, neither time did we even accomplish the goal. (The second time I got us close and finished the same night.)
+
+Also, using npm seemed unnecessary and it kept one person from even contributing to the challenge due to version conflicts.
+
+**Link to work:**  [Hangman on CodeBytes](https://github.com/CodeBytes-PDX/Hangman_Challenge), [Hangman on jtegtmeier](https://github.com/jtegtmeier/hangman-game-node)
+
+
+### Day 93: June 10th, 2017 (Saturday)
+
+**Today's Progress:** Worked a bunch on the Text Adventure Game. Got items working and created a simple endgame scenario.
+
+**Thoughts:** I was actually surprised that the pull request was accepted so quickly - thought for sure 
+someone would want to change a bunch of stuff.
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
+
+### Day 94: June 12th, 2017 (Monday)
+
+**Today's Progress:** Had a Text Adventure Game development chat with Jacob again today. 
+
+**Thoughts:** The communication is great practice for me to see what actual development is like. Good stuff. 
+
+**Link to work:**  [Text Adventure Game](https://github.com/CodeBytes-PDX/text_adventure_challenge)
+
+
+### Day 95: June 13th, 2017 (Tuesday)
+
+**Today's Progress:** Worked on my Simple Weight Grapher a little today. 
+
+**Thoughts:** I forgot to push my work, I think, so it might not show up until I do... Oops. 
+
+**Link to work:**  [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher)
 
