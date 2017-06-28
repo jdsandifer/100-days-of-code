@@ -905,3 +905,34 @@ someone would want to change a bunch of stuff.
 
 **Link to work:**  [Simple Weight Grapher App](https://github.com/jdsandifer/SimpleWeightGrapher)
 
+
+### Day 96: June 14th, 2017 (Wednesday)
+
+**Today's Progress:** Worked on my Design Patterns repo some today.
+
+
+### Day 97: June 15th, 2017 (Thursday)
+
+**Today's Progress:** Worked on TAG a little today.
+
+
+### Day 98: June 19th, 2017 (Monday)
+
+**Today's Progress:** Worked on my website a lot today.
+
+
+### Day 99: June 20th, 2017 (Tuesday)
+
+**Today's Progress:** Worked on my website more - including some at a free code camp meetup.
+
+
+### Day 100 (Bonus): June 22th, 2017 (Thursday)
+
+**Today's Progress:** Refactored Hangman a bit. Used some of the things I've learned from *Code Complete*.
+
+
+### Day 101 (Double Bonus): June 24th, 2017 (Saturday)
+
+**Today's Progress:** Fixed a major bug plus many small ones with the presentation server software at work today. 
+Definitely earned my developer under fire stripes. (Re-writing code on a tight deadline with an audience.)
+
